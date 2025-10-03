@@ -13,7 +13,7 @@ const HeroSection: React.FC = () => {
         Retratando a cidade através da luz, do movimento e das pessoas.
       </p>
       <p className="text-base md:text-lg text-muted-foreground max-w-3xl leading-relaxed">
-        Com um olhar apurado para a autenticidade e a energia do esporte, Wanderson Seven captura momentos que transcendem a fotografia, transformando cada clique em uma narrativa visual única. Seu estilo dinâmico e sua paixão por contar histórias através da lente garantem imagens que vibram com a emoção de cada instante.
+        Fotógrafo esportivo especializado em registrar a intensidade dos treinos, jogos e competições. Experiência em coberturas oficiais de campeonatos, liderança de equipes e produção de conteúdo para atletas e academias. Meu olhar busca eternizar momentos de superação, emoção e conquista no esporte.
       </p>
     </section>
   );
