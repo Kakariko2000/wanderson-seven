@@ -4,6 +4,11 @@ import GradientText from './GradientText';
 const HeroSection: React.FC = () => {
   return (
     <section className="min-h-screen flex flex-col items-center justify-center bg-background text-foreground p-4 text-center">
+      <img
+        src="/images/wanderson-seven.jpeg"
+        alt="Wanderson Seven - Fotógrafo Esportivo"
+        className="w-48 h-48 md:w-64 md:h-64 rounded-full object-cover mb-8 shadow-lg border-4 border-primary"
+      />
       <h1 className="text-5xl md:text-7xl font-extrabold mb-4 leading-tight">
         <GradientText>Wanderson Seven</GradientText>
         <br />
