@@ -20,7 +20,7 @@ const PortfolioGallery: React.FC = () => {
 
   return (
     <section className="py-16 bg-background text-foreground p-4">
-      <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-12">
+      <h2 className="text-5xl md:text-5xl font-extrabold text-center mb-12">
         <GradientText>Portfólio</GradientText>
       </h2>
 
@@ -58,8 +58,8 @@ const PortfolioGallery: React.FC = () => {
               />
               <div className="absolute bottom-4 left-4 bg-black bg-opacity-70 text-white p-3 rounded-md max-w-xs">
                 <p className="font-semibold text-lg">{selectedPhoto.location}</p>
-                <p className="text-sm text-gray-300">{selectedPhoto.equipment}</p>
-                <p className="text-sm text-gray-300">{selectedPhoto.settings}</p>
+                <p className="text-base text-gray-300">{selectedPhoto.equipment}</p>
+                <p className="text-base text-gray-300">{selectedPhoto.settings}</p>
               </div>
             </div>
           )}

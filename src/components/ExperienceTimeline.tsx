@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils';
 const ExperienceTimeline: React.FC = () => {
   return (
     <section className="py-16 bg-background text-foreground p-4">
-      <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-12">
+      <h2 className="text-5xl md:text-5xl font-extrabold text-center mb-12">
         <GradientText>Experiências</GradientText>
       </h2>
 
@@ -37,8 +37,8 @@ const ExperienceTimeline: React.FC = () => {
                   )}
                 >
                   <h3 className="text-2xl font-semibold text-primary mb-2">{exp.company}</h3>
-                  <p className="text-muted-foreground mb-2">{exp.description}</p>
-                  <p className="text-sm text-gray-500">{exp.period}</p>
+                  <p className="text-lg text-muted-foreground mb-2">{exp.description}</p>
+                  <p className="text-base text-gray-500">{exp.period}</p>
                 </div>
               </div>
             </div>

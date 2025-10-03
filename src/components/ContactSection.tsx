@@ -10,10 +10,10 @@ const ContactSection: React.FC = () => {
 
   return (
     <section className="py-16 bg-background text-foreground p-4 text-center">
-      <h2 className="text-4xl md:text-5xl font-extrabold mb-8">
+      <h2 className="text-5xl md:text-5xl font-extrabold mb-8">
         <GradientText>Disponível para Trabalhos e Colaborações</GradientText>
       </h2>
-      <p className="text-xl text-muted-foreground mb-10 max-w-2xl mx-auto">
+      <p className="text-2xl text-muted-foreground mb-10 max-w-2xl mx-auto">
         Se você busca capturar a essência do movimento e a paixão do esporte, entre em contato. Estou pronto para transformar suas ideias em imagens impactantes.
       </p>
 
