@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
       <img
         src="/images/wanderson-seven.jpeg"
         alt="Wanderson Seven - Fotógrafo Esportivo"
-        className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover mb-8 shadow-lg border-4 border-primary"
+        className="w-80 h-80 md:w-96 md:h-96 rounded-full object-cover mb-8 shadow-lg border-4 border-primary"
       />
       <h1 className="text-6xl md:text-7xl font-extrabold mb-4 leading-tight">
         <GradientText>Wanderson Seven</GradientText>
