@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
       <h1 className="text-5xl md:text-7xl font-extrabold mb-4 leading-tight">
         <GradientText>Wanderson Seven</GradientText>
         <br />
-        <GradientText className="text-4xl md:text-6xl">Fotógrafo Esportivo</GradientText>
+        <GradientText className="text-3xl md:text-5xl">Fotógrafo Esportivo</GradientText>
       </h1>
       <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl">
         Retratando a cidade através da luz, do movimento e das pessoas.
