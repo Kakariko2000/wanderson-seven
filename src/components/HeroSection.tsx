@@ -14,10 +14,10 @@ const HeroSection: React.FC = () => {
         <br />
         <GradientText className="text-4xl md:text-5xl">Fotógrafo Esportivo</GradientText>
       </h1>
-      <p className="text-2xl md:text-2xl text-muted-foreground mb-8 max-w-2xl">
+      <p className="text-2xl md:text-3xl text-muted-foreground mb-8 max-w-2xl">
         Retratando a cidade através da luz, do movimento e das pessoas.
       </p>
-      <p className="text-lg md:text-lg text-muted-foreground max-w-3xl leading-relaxed">
+      <p className="text-xl md:text-xl text-muted-foreground max-w-3xl leading-relaxed">
         Fotógrafo esportivo especializado em registrar a intensidade dos treinos, jogos e competições. Experiência em coberturas oficiais de campeonatos, liderança de equipes e produção de conteúdo para atletas e academias. Meu olhar busca eternizar momentos de superação, emoção e conquista no esporte.
       </p>
     </section>
